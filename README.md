@@ -14,3 +14,9 @@ This project implements a simple tennis scoring system in Java. The scoring syst
 2. **Clone the repository**:
    ```bash
    git clone git@github.com:Psamathe-zz/tennis-game.git
+3. **Run the program**:
+- Open the project in your preferred Integrated Development Environment (IDE).
+- Run the `Main` class to see how the game progresses based on input sequences like "ABABAA" (where 'A' represents actions by Player A and 'B' by Player B).
+4. **Testing**:
+- The project includes JUnit tests to validate the functionality of the Tennis Score Calculator and Game Processor components.
+- Navigate to `src/test/java` directory and run `TennisScoreCalculatorTest` and `TennisGameProcessorTest` classes.
